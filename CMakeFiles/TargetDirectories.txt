@@ -1,0 +1,3 @@
+/home/axel/Repos/ASCII-ART-CPP/CMakeFiles/ASCII-IMAGE-convert.dir
+/home/axel/Repos/ASCII-ART-CPP/CMakeFiles/edit_cache.dir
+/home/axel/Repos/ASCII-ART-CPP/CMakeFiles/rebuild_cache.dir
