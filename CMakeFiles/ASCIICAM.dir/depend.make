@@ -1,2 +1,2 @@
-# Empty dependencies file for ASCII-IMAGE-convert.
+# Empty dependencies file for ASCIICAM.
 # This may be replaced when dependencies are built.
