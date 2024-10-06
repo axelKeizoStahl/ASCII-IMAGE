@@ -1,3 +1,0 @@
-/home/axel/repos/ASCII-IMAGE/CMakeFiles/ASCIICAM.dir
-/home/axel/repos/ASCII-IMAGE/CMakeFiles/edit_cache.dir
-/home/axel/repos/ASCII-IMAGE/CMakeFiles/rebuild_cache.dir
